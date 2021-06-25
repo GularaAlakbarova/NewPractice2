@@ -12,6 +12,7 @@ class Main {
                 {"Jenni Bowdery", "jbowdery2@creativecommons.org", "240-981-3226" ,	3574299080159492L},
                 {"Phyllys Karppi",	"pkarppi3@cnbc.com", "628-686-9886", 3589734035932315L},
                 {"Adelbert Yitzovicz",	"ayitzovicz4@jigsy.com", "203-467-0276", 3576321404492926L}
+                {"Anar Yusifov",	"ayitzovicz4@jigsy.live", "454-467-1234", 3576321404492943L}
 
         };
 
